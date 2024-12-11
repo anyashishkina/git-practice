@@ -118,7 +118,7 @@ git checkout feature-branch
 ```console
 (base) annashishkina@MacBook-Pro-Anna git-practice % vim check_format.sh
 ```
-bash-скрипт проверяет, чтобы txt файлы начинались с большой буквы.
+bash-скрипт проверяет, чтобы сроки в txt файлах начинались с большой буквы.
 ![Изображение](images/code.png)
 Запишу "hello world" в файл test.txt и попробую его закоммитить
 ```console
